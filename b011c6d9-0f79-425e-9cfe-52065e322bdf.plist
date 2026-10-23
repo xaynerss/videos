@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://www.dropbox.com/scl/fi/7nizd22djfdh45fkdvibu/675b7dd1-1f06-464a-a5f3-7fb25b8e2bb7.ipa?rlkey=eeecsq7q2g1kyv8yspg7ug6f8&st=967p9ty9&dl=1</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>kz.sportrun.app</string>
+				<key>bundle-version</key>
+				<string>1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>SportRun</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
